@@ -45,7 +45,7 @@ LIB=$(MTH)
 COMMON=
 
 # Directorios que serán compilados a un programa
-PROGRAMS=abb hellofile
+PROGRAMS=linked hellofile abb
 
 # Todos los directorios que contienen archivos de código
 SRCDIR=$(COMMON) $(PROGRAMS)
